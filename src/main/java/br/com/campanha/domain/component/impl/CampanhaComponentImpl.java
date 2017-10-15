@@ -1,6 +1,6 @@
-package br.com.campanha.domain.component;
+package br.com.campanha.domain.component.impl;
 
-import br.com.campanha.domain.component.impl.CampanhaComponent;
+import br.com.campanha.domain.component.CampanhaComponent;
 import br.com.campanha.domain.model.Campanha;
 import org.springframework.stereotype.Component;
 

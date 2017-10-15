@@ -1,7 +1,7 @@
 package br.com.campanha.component;
 
 import br.com.campanha.builder.CampanhaDataBuilder;
-import br.com.campanha.domain.component.CampanhaComponentImpl;
+import br.com.campanha.domain.component.impl.CampanhaComponentImpl;
 import br.com.campanha.domain.model.Campanha;
 import com.google.common.collect.Lists;
 import org.junit.jupiter.api.BeforeEach;

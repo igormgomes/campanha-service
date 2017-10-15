@@ -1,6 +1,6 @@
 package br.com.campanha.domain.service.impl;
 
-import br.com.campanha.domain.component.impl.CampanhaComponent;
+import br.com.campanha.domain.component.CampanhaComponent;
 import br.com.campanha.domain.model.Campanha;
 import br.com.campanha.domain.model.Time;
 import br.com.campanha.domain.repository.CampanhaRepository;

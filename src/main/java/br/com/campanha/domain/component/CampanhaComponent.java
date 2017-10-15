@@ -1,4 +1,4 @@
-package br.com.campanha.domain.component.impl;
+package br.com.campanha.domain.component;
 
 import br.com.campanha.domain.model.Campanha;
 

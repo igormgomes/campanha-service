@@ -1,7 +1,7 @@
 package br.com.campanha.service;
 
-import br.com.campanha.domain.component.CampanhaComponentImpl;
-import br.com.campanha.domain.component.impl.CampanhaComponent;
+import br.com.campanha.domain.component.impl.CampanhaComponentImpl;
+import br.com.campanha.domain.component.CampanhaComponent;
 import br.com.campanha.domain.model.Campanha;
 import br.com.campanha.domain.repository.CampanhaRepository;
 import br.com.campanha.domain.repository.custom.CampanhaCustomRepository;
