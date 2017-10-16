@@ -4,7 +4,9 @@ A aplicação foi desenvolvida em [Spring boot](https://projects.spring.io/sprin
 
 ### Subindo a aplicação
 
+```
 mvn spring-boot:run
+```
 
 Acesse o swagger para usar as api's http://localhost:8080/swagger-ui.html.
 
