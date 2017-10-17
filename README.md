@@ -7,14 +7,15 @@ A aplicação foi desenvolvida em [Spring boot](https://projects.spring.io/sprin
 ```
 mvn spring-boot:run
 ```
-### Subindo a aplicação com Docker
 
+### Subindo a aplicação com Docker
 ```
 mvn clean package docker:build
 ```
 ```
 docker run -p 8080:8080 campanha-service
 ```
+
 Acesse o swagger para usar as api's http://localhost:8080/swagger-ui.html.
 
 Acessar a base de dados http://localhost:8080/h2

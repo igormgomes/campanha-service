@@ -220,7 +220,6 @@
                     </resources>
                 </configuration>
             </plugin>
-            <!--  docker run -p 8080:8080 campanha-service -->
 
         </plugins>
     </build>
